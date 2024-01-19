@@ -1,0 +1,11 @@
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\bin\Debug\WindowsFormsApp46.exe.config
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\bin\Debug\WindowsFormsApp46.exe
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\bin\Debug\WindowsFormsApp46.pdb
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.Form1.resources
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.Properties.Resources.resources
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.exe
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.pdb
+C:\Users\denjl\source\repos\WindowsFormsApp46\WindowsFormsApp46\obj\Debug\WindowsFormsApp46.Form2.resources
